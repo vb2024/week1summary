@@ -1,0 +1,4 @@
+"0","data(iris)"
+"0","virginica <- filter(iris, Species == ""virginica"")"
+"0","ggplot(virginica, aes(Sepal.Length, Sepal.Width)) + "
+"0","  geom_point()"
